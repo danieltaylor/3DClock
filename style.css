@@ -1,0 +1,27 @@
+body {
+	text-align: center;
+    background-color: rgb(24, 24, 24);
+}
+
+div {
+display:inline;
+}
+
+img {
+    width: 20%;
+    height: auto;
+}
+
+footer {
+	font-family: "Lato";
+	color: gray;
+	position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+}
+
+a {
+	color: gray;
+}
